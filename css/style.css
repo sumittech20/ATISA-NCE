@@ -87,7 +87,7 @@ section p {
   text-align: center;
 }
 .banner-area .banner-img {
-  background-image: url(/img/nce.jpg);
+  background-image: url(nce.jpg);
   position: absolute;
   top: 0;
   left: 0;
@@ -159,7 +159,7 @@ ul.about-content {
 }
 .about-left {
   flex-basis: 40%;
-  background-image: url(/img/topj.jpg);
+  background-image: url(topj.jpg);
 }
 .about-right {
   flex-basis: 60%;
